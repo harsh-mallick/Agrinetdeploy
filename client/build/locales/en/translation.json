@@ -1,0 +1,26 @@
+{
+    "language": "en",
+    "welcome": {
+        "part1": "Agrinet"
+    },
+    "description":{
+        "title": "About Website",
+        "d1": "This website serves as a valuable tool for farmers across the country, offering them the means to enhance their agricultural",
+        "d2": "yield through the power of predictive analysis. By leveraging advanced algorithms and incorporating data on climate patterns",
+        "d3": "and soil fertility, this platform empowers farmers to make informed decisions about their farming practices.",
+        "d4": "Upon inputting their farm data, such as crop types, planting dates, and soil composition, the website utilizes the available",
+        "d5": "weather API and soil fertility data to generate personalized reports. These reports provide farmers with crucial insights into",
+        "d6": "the optimal conditions for their crops, enabling them to plan their activities accordingly.",
+        "d7": "Made easy for you!",
+        "n1": "Home"
+    },
+    "contact": {
+        "title": "Get in Touch",
+        "tb1": "Enter your name:",
+        "tb2": "Enter your email: ",
+        "tb3": "Enter your message: "
+    },
+    "navbar":{
+        "n1": "Home"
+    }
+}

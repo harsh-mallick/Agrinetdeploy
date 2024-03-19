@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c65ad888.css",
+    "main.js": "/static/js/main.14f843fa.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/Transpoter.jpg": "/static/media/Transpoter.b9c8103c4d2b27beb04d.jpg",
+    "static/media/Farmland.jpg": "/static/media/Farmland.2bad3dd0e7c386283c83.jpg",
+    "static/media/0001-0080.mp4": "/static/media/0001-0080.fb22b23dda47a007e3d4.mp4",
+    "static/media/frame-2@3x.png": "/static/media/frame-2@3x.9811af1182402ed39434.png",
+    "static/media/Crops in field.webp": "/static/media/Crops in field.356fb4607053fab7c9e6.webp",
+    "static/media/Cold Storage.png": "/static/media/Cold Storage.67f54b18a4acbe046b3b.png",
+    "static/media/Wholesale.jpg": "/static/media/Wholesale.fbc59b305404e545acdd.jpg",
+    "static/media/cold-storage-warehouse.jpg": "/static/media/cold-storage-warehouse.bcab8af76782194eb173.jpg",
+    "static/media/Farmer.jpg": "/static/media/Farmer.8e8f0e29c5226475afa2.jpg",
+    "static/media/Logo-Logo.png": "/static/media/Logo-Logo.b3bb7f48054fe5ea9439.png",
+    "static/media/Bg.webp": "/static/media/Bg.ab5cdae46added04afe0.webp",
+    "static/media/thumbbig-190787.webp": "/static/media/thumbbig-190787.0d1d97bb05fdac73607d.webp",
+    "static/media/information.png": "/static/media/information.971cb00ee34aeb2fa2f8.png",
+    "static/media/aboutbg.jpg": "/static/media/aboutbg.de3f9e839a9b9ba5b46c.jpg",
+    "static/media/Tejas.jpg": "/static/media/Tejas.bcfc714e4295ebec655e.jpg",
+    "static/media/Piyush.jpg": "/static/media/Piyush.e4aa0c66f17f077e7382.jpg",
+    "static/media/hmlord.jpg": "/static/media/hmlord.b382461f857b48da01e6.jpg",
+    "static/media/Krisha.jpg": "/static/media/Krisha.32f5b91fab54106f68d6.jpg",
+    "index.html": "/index.html",
+    "main.c65ad888.css.map": "/static/css/main.c65ad888.css.map",
+    "main.14f843fa.js.map": "/static/js/main.14f843fa.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c65ad888.css",
+    "static/js/main.14f843fa.js"
+  ]
+}
