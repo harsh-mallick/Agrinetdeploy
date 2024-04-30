@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.43b78389.css",
-    "main.js": "/static/js/main.264679c7.js",
+    "main.js": "/static/js/main.fcc7f81c.js",
     "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
-    "static/media/Transpoter.jpg": "/static/media/Transpoter.b9c8103c4d2b27beb04d.jpg",
     "static/media/Farmland.jpg": "/static/media/Farmland.2bad3dd0e7c386283c83.jpg",
     "static/media/0001-0080.mp4": "/static/media/0001-0080.fb22b23dda47a007e3d4.mp4",
     "static/media/frame-2@3x.png": "/static/media/frame-2@3x.9811af1182402ed39434.png",
     "static/media/Crops in field.webp": "/static/media/Crops in field.356fb4607053fab7c9e6.webp",
+    "static/media/transportation1.jpg": "/static/media/transportation1.07af8d146af7177fd44c.jpg",
     "static/media/Cold Storage.png": "/static/media/Cold Storage.67f54b18a4acbe046b3b.png",
     "static/media/Wholesale.jpg": "/static/media/Wholesale.fbc59b305404e545acdd.jpg",
     "static/media/cold-storage-warehouse.jpg": "/static/media/cold-storage-warehouse.bcab8af76782194eb173.jpg",
@@ -24,11 +24,11 @@
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
     "main.43b78389.css.map": "/static/css/main.43b78389.css.map",
-    "main.264679c7.js.map": "/static/js/main.264679c7.js.map",
+    "main.fcc7f81c.js.map": "/static/js/main.fcc7f81c.js.map",
     "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43b78389.css",
-    "static/js/main.264679c7.js"
+    "static/js/main.fcc7f81c.js"
   ]
 }
