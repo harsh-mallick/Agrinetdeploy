@@ -3,7 +3,7 @@
     "welcome": {
         "part1": "Agrinet"
     },
-    "description":{
+    "description": {
         "title": "About Website",
         "d1": "This website serves as a valuable tool for farmers across the country, offering them the means to enhance their agricultural",
         "d2": "yield through the power of predictive analysis. By leveraging advanced algorithms and incorporating data on climate patterns",
@@ -14,13 +14,27 @@
         "d7": "Made easy for you!",
         "n1": "Home"
     },
+    "user": {
+        "title": "Our Main Users",
+        "t1": "Wholesale buyers are businesses or individuals who purchase goods in bulk directly from farmers. They often buy products at a lower price and then resell them to retailers or end consumers, contributing to the distribution of goods in the market.",
+        "t2": "Farmers play a vital role in our society as they are responsible for producing the food we eat. Their hard work and dedication contribute significantly to the agricultural sector. Despite of numerous challenges, farmers ensure that the food supply is stable and secure for the growing populations.",
+        "t3": "Transporters of goods are responsible for the movement and delivery of goods from one location to another. They play a critical role in the supply chain, ensuring that goods are efficiently transported, enabling businesses to meet the demands of consumers and markets.",
+        "t4": "Transporter",
+        "t5": "Farmer",
+        "t6": "Buyer"
+    },
     "contact": {
         "title": "Get in Touch",
         "tb1": "Enter your name:",
         "tb2": "Enter your email: ",
-        "tb3": "Enter your message: "
+        "tb3": "Enter your message: ",
+        "button": "Submit"
     },
-    "navbar":{
-        "n1": "Home"
+    "navbar": {
+        "n1": "Home",
+        "n2": "Sign In",
+        "n3": "Sign Up",
+        "n4": "Cold Storage Sign Up",
+        "n5": "Our Team Members"
     }
 }
